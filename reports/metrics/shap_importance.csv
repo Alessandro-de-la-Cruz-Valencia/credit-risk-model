@@ -1,0 +1,15 @@
+,mean_abs_shap
+Credit card / credit line utilization,0.668344414766494
+Total late payments,0.42882839281177015
+Age,0.23513356301256064
+Open credit lines and loans,0.15699363011464698
+Debt ratio,0.12618043293380712
+Real estate loans,0.102126153992697
+Monthly income,0.09030996717427726
+Times 90+ days late,0.089288622635788
+Times 30-59 days late,0.050524262971599225
+Times 60-89 days late,0.04245192186155549
+Income not reported,0.03647030303227207
+Dependents,0.03177712122975285
+Special late-payment code (96/98),0.0069690187200704854
+Dependents not reported,0.0010900583463534172

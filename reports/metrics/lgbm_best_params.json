@@ -1,0 +1,13 @@
+{
+  "params": {
+    "colsample_bytree": 0.647816842918857,
+    "learning_rate": 0.012749532484829813,
+    "min_child_samples": 47,
+    "n_estimators": 755,
+    "num_leaves": 27,
+    "reg_lambda": 3.7173717478250508,
+    "subsample": 0.8157368967662603,
+    "subsample_freq": 1
+  },
+  "cv_roc_auc": 0.8659000409538782
+}
