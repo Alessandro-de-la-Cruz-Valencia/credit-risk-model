@@ -1,0 +1,15 @@
+,coefficient
+TotalPastDue,0.8942958102534035
+RevolvingUtilizationOfUnsecuredLines,0.671002784886956
+NumberOfTime30-59DaysPastDueNotWorse,-0.24660233453996636
+age,-0.223759441503415
+DebtRatio,-0.11530778045772178
+LatePayment_special_code,0.11263498123153678
+MonthlyIncome_missing,0.10369214513122886
+NumberOfOpenCreditLinesAndLoans,0.10305981420736557
+NumberRealEstateLoansOrLines,0.060161703779043556
+MonthlyIncome,-0.03850412075491836
+NumberOfDependents,0.030957921732188254
+NumberOfTimes90DaysLate,0.02489352009565953
+NumberOfDependents_missing,-0.014747783290783639
+NumberOfTime60-89DaysPastDueNotWorse,-0.008296545509395273
